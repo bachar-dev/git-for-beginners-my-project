@@ -1,5 +1,5 @@
 welcome to myProject!
 
-author:bashar
+author:bashar jebbawe
 
 twitter:@bashar
