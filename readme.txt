@@ -1,4 +1,4 @@
-welcome to myProject!
+welcome to the git lol myProject!
 
 
 author:bashar adel  jebbawe
