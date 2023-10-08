@@ -1,0 +1,3 @@
+ECHO is on.
+# Ignore compiled output
+compiledOutput.txt
